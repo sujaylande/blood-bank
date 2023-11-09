@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 
-mongoose.connect("mongodb+srv://bloodbank:bloodbank@cluster0.hk8qafu.mongodb.net/?retryWrites=true&w=majority");
+mongoose.connect("");
 
 // connection object:
 const connection = mongoose.connection;
