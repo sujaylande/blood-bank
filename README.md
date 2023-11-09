@@ -38,19 +38,6 @@ Hospitals, on the other hand, can register and request blood from organizations 
 
 **Server:** Node, Express
 
-
-## Hosted/Deployed
-
-https://nihitbloodbank.onrender.com
-## Test users
-
-This project contains admin and normal user functionality
-
-- donor(user) :  john@gmail.com password : john123
-- hospital : nims@gmail.com  password : sai123
-- organisation: mlr@gmail.com password mlr123
-
-
 ## Environment Variables
 
 - PORT=5000 
